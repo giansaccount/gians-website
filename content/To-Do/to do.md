@@ -1,5 +1,8 @@
 ---
-dg-publish: false
+title: to do
+draft: false
+tags:
+  - example-tag
 ---
 -[ ] MCAT Registration for 02/12/27
 -[ ] Call Dr. Jessica John's Office for Shadowing again
@@ -11,3 +14,5 @@ dg-publish: false
 
 #Keepinmind
 * begin uworld subscription (3 months) between November 10th-12th
+
+test test
