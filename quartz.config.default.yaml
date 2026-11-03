@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: "giansaccount.github.io/gians-website"
   ignorePatterns:
     - private
     - templates
